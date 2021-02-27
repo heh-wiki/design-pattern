@@ -12,7 +12,7 @@
     <artifactId>pattern-builder</artifactId>
 
     <modules>
-        <module>pattern-builder</module>
+        <module>pattern-builder-abc</module>
         <module>pattern-prototype</module>
     </modules>
 </project>
