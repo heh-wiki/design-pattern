@@ -15,6 +15,7 @@
     <modules>
         <module>factory-pattern</module>
         <module>pattern-builder</module>
+        <module>proxy-pattern</module>
     </modules>
 
 </project>
