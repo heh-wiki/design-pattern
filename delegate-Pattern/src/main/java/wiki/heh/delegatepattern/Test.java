@@ -11,6 +11,7 @@ public class Test {
 
     public static void main(String[] args) {
         //委派者要持有被委派者的引用
+
         new Boss().command("后台",new Leader());
     }
 }
