@@ -14,7 +14,7 @@ public class Consumer implements Observer {
         this.name = name;
     }
 
-    @Override
+
     public void update(Observable o, Object arg) {
         Provider provider =(Provider) o;
         Message msg = (Message) arg;
